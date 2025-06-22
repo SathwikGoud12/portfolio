@@ -10,7 +10,7 @@ const projects = [
     desp: "Designed and developed a responsive personal portfolio website to showcase my skills, projects, and experience. Implemented smooth animations using Framer Motion, organized reusable components with React, and applied custom styling with TailwindCSS. The site features interactive sections, modern UI, and dynamic skill/project rendering for better engagement and professional presentation.",
     align: "right",
     image: "/images/website-img-1.jpg",
-    link: "https://github.com/SathwikGoud12/portfolio", // Replace with your actual GitHub repo
+    link: "https://portfolio-three-beta-80.vercel.app/", // Replace with your actual GitHub repo
   },
   {
     name: "Food Recipe Website",
